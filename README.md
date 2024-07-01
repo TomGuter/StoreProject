@@ -1,9 +1,9 @@
 Features:
-User registration and login
-Product listing and details
-Shopping cart functionality
-Order management
-Admin panel for managing products
+1. User registration and login
+2. Product listing and details
+3. Shopping cart functionality
+4. Order management
+5. Admin panel for managing products
 
 To activate the project:
 1. Download the project and open it in your IDE.
